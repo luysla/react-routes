@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  gap: 10px;
+  margin: 30px 0 30px 0;
+
+  .link {
+    background-color: #e5e5e5;
+    border-radius: 5px;
+    color: #000;
+    font-size: 16px;
+    padding: 10px 20px;
+    text-decoration: none;
+
+    &.active {
+      background-color: #c1c1c1;
+    }
+
+    &:hover {
+      background-color: #c1c1c1;
+    }
+  }
+}

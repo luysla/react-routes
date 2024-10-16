@@ -1,0 +1,35 @@
+.wrapper {
+  margin: auto;
+  width: 50vw;
+
+  img {
+    border-radius: 10px;
+    margin-bottom: 50px;
+    width: 300px;
+  }
+
+  .details {
+    display: flex;
+    gap: 20px;
+
+    .text {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+      margin-top: 20px;
+
+      .title {
+        font-weight: bold;
+      }
+
+      .priceTag {
+        background-color: #7FFF00;
+        border-radius: 5px;
+        color: #1B4D3E;
+        padding: 10px;
+        width: 90px;
+      }
+    }
+
+  }
+}

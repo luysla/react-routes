@@ -1,0 +1,32 @@
+.contact {
+  margin: auto;
+  width: 50vw;
+
+  .content {
+    display: flex;
+    gap: 20px;
+    width: 500vw;
+
+    img {
+      border-radius: 10px;
+      width: 500px;
+    }
+
+    .text {
+      margin-top: 20px;
+
+      .info {
+        align-items: flex-end;
+        display: flex;
+        gap: 5px;
+        margin-top: 20px;
+
+        .detail {
+          background-color: #c4c4c4;
+          height: 2px;
+          width: 20px;
+        }
+      }
+    }
+  }
+}
