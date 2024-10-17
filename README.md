@@ -1,8 +1,9 @@
-# React + Vite
+<h1 align="center">👩🏻‍💻 React routes</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">Exercício para treinar o uso de routes no React :) </br> <a href="https://quizaboutreact.netlify.app/">🔗 https://reactroutesapp.netlify.app/</a></p>
 
-Currently, two official plugins are available:
+![Captura de tela1](https://github.com/user-attachments/assets/1053efd6-2bab-44e3-bd44-42bbe6f81bf7)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Captura de tela2](https://github.com/user-attachments/assets/edc5d0b4-68b2-4cdf-a6c9-fe5f1c6d3a99)
+
+<p align="center">Exercício de rotas do curso de <b>React - Origamid.</b></p>
