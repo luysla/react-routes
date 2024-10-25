@@ -1,6 +1,6 @@
 <h1 align="center">👩🏻‍💻 React routes</h1>
 
-<p align="center">Exercício para treinar o uso de routes no React :) </br> <a href="https://quizaboutreact.netlify.app/">🔗 https://reactroutesapp.netlify.app/</a></p>
+<p align="center">Exercício para treinar o uso de routes no React :) </br> <a href="https://reactroutesapp.netlify.app/">🔗 https://reactroutesapp.netlify.app/</a></p>
 
 ![Captura de tela1](https://github.com/user-attachments/assets/1053efd6-2bab-44e3-bd44-42bbe6f81bf7)
 
